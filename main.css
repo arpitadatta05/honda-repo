@@ -1,0 +1,12 @@
+/* header-part css start */
+.row{
+    background-color: #264653;
+    height: 698px;
+}
+#color{
+    color: white;
+}
+.btn-color{
+    background-color: rgb(231 111 81);
+}
+/* header-part css end */
