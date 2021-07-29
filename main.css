@@ -9,4 +9,12 @@
 .btn-color{
     background-color: rgb(231 111 81);
 }
+
 /* header-part css end */
+/* main part start */
+.best-bike-color{
+    color: rgb(231 111 81);
+}
+.grayscale{
+    filter: grayscale(100%);
+}
