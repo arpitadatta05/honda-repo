@@ -1,5 +1,5 @@
 /* header-part css start */
-.row{
+.bg-color{
     background-color: #264653;
     height: 698px;
 }
@@ -17,4 +17,13 @@
 }
 .grayscale{
     filter: grayscale(100%);
+}
+.h5-color{
+    color:#23a6f0 ;
+}
+.far fa-star .far fa-star{
+    color: tomato;
+}
+.size{
+    height: 40%;
 }
