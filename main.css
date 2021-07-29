@@ -21,9 +21,31 @@
 .h5-color{
     color:#23a6f0 ;
 }
-.far fa-star .far fa-star{
-    color: tomato;
+ .far{
+    background-color:lightgray;
 }
 .size{
     height: 40%;
 }
+/* footer part start */
+footer{
+    padding: 8px;
+    border-radius:50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 140px auto;
+}
+.footer-img img{
+    width: 484px;
+    margin-bottom: 20px;
+}
+.fab{
+    margin-right: 14px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    background:lightgray
+}
+/* footer part end */
